@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "438136283707",
+    "project_id": "newproject-efba6",
+    "storage_bucket": "newproject-efba6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438136283707:android:ca78be8d8b19bea586721e",
+        "android_client_info": {
+          "package_name": "com.app.localhire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCulCbk0iS455rduC0pvJlvOvWvfMLuoIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438136283707:android:d58b91c235d7fd5386721e",
+        "android_client_info": {
+          "package_name": "com.localhire.localhire_v2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCulCbk0iS455rduC0pvJlvOvWvfMLuoIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
